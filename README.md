@@ -23,6 +23,12 @@
   </a>
 </p>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-choudhary-git&hide=TeX&layout=compact)
+![Sameer's Github Stats](https://github-readme-stats.vercel.app/api?username=sameer-choudhary-git&count_private=true&show_icons=true&include_all_commits=true)
+
+
+
 </br>
 </br>
 
@@ -49,3 +55,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 *************
 [![An image of @sameerchoudharygit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameerchoudharygit)](https://holopin.io/@sameerchoudharygit)
+
